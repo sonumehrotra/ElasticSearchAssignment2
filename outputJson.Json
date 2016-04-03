@@ -1,0 +1,2470 @@
+{
+  "took" : 11,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1752,
+    "max_score" : 1.0,
+    "hits" : [ {
+      "_index" : "twitter",
+      "_type" : "tweet",
+      "_id" : "AVPeO1Y8GfCWwlhiivHZ",
+      "_score" : 1.0,
+      "_source" : {
+        "id" : "tag:search.twitter.com,2005:601693145378623488",
+        "objectType" : "activity",
+        "actor" : {
+          "objectType" : "person",
+          "id" : "id:twitter.com:58186940",
+          "link" : "http://www.twitter.com/Tofu_Carmen",
+          "displayName" : "Carmen",
+          "postedTime" : "2009-07-19T12:31:44.000Z",
+          "image" : "https://pbs.twimg.com/profile_images/584615821705515008/TcMhXqxU_normal.jpg",
+          "summary" : "What is enough is more than needed, what is more than needed is never enough.",
+          "links" : [ {
+            "href" : "http://www.facebook.com/profile.php?id=1315713302",
+            "rel" : "me"
+          } ],
+          "friendsCount" : 598,
+          "followersCount" : 577,
+          "listedCount" : 1,
+          "statusesCount" : 22598,
+          "twitterTimeZone" : "Kuala Lumpur",
+          "verified" : false,
+          "utcOffset" : "28800",
+          "preferredUsername" : "Tofu_Carmen",
+          "languages" : [ "en" ],
+          "favoritesCount" : 5057
+        },
+        "verb" : "post",
+        "postedTime" : "2015-05-22T10:16:39.000Z",
+        "generator" : {
+          "displayName" : "Twitter for iPhone",
+          "link" : "http://twitter.com/download/iphone"
+        },
+        "provider" : {
+          "objectType" : "service",
+          "displayName" : "Twitter",
+          "link" : "http://www.twitter.com"
+        },
+        "link" : "http://twitter.com/Tofu_Carmen/statuses/601693145378623488",
+        "body" : "Newsflash 44 more minutes until Starbucks happy hour ends \uD83D\uDC81",
+        "object" : {
+          "objectType" : "note",
+          "id" : "object:search.twitter.com,2005:601693145378623488",
+          "summary" : "Newsflash 44 more minutes until Starbucks happy hour ends \uD83D\uDC81",
+          "link" : "http://twitter.com/Tofu_Carmen/statuses/601693145378623488",
+          "postedTime" : "2015-05-22T10:16:39.000Z"
+        },
+        "favoritesCount" : 0,
+        "twitter_entities" : {
+          "hashtags" : [ ],
+          "trends" : [ ],
+          "urls" : [ ],
+          "user_mentions" : [ ],
+          "symbols" : [ ]
+        },
+        "twitter_filter_level" : "low",
+        "twitter_lang" : "en",
+        "retweetCount" : 0,
+        "gnip" : {
+          "matching_rules" : [ {
+            "tag" : null
+          } ],
+          "language" : {
+            "value" : "en"
+          }
+        }
+      }
+    }, {
+      "_index" : "twitter",
+      "_type" : "tweet",
+      "_id" : "AVPeO1Y8GfCWwlhiivHa",
+      "_score" : 1.0,
+      "_source" : {
+        "id" : "tag:search.twitter.com,2005:601693166547275776",
+        "objectType" : "activity",
+        "actor" : {
+          "objectType" : "person",
+          "id" : "id:twitter.com:624091610",
+          "link" : "http://www.twitter.com/Kaseyrhiannon33",
+          "displayName" : "Kasee .♡",
+          "postedTime" : "2012-07-01T21:15:04.000Z",
+          "image" : "https://pbs.twimg.com/profile_images/601586889406029824/LYlU0oCF_normal.jpg",
+          "summary" : "instagram:Kaseyrhiannon_33",
+          "links" : [ {
+            "href" : null,
+            "rel" : "me"
+          } ],
+          "friendsCount" : 1035,
+          "followersCount" : 545,
+          "listedCount" : 0,
+          "statusesCount" : 2237,
+          "twitterTimeZone" : null,
+          "verified" : false,
+          "utcOffset" : null,
+          "preferredUsername" : "Kaseyrhiannon33",
+          "languages" : [ "en" ],
+          "favoritesCount" : 1825
+        },
+        "verb" : "share",
+        "postedTime" : "2015-05-22T10:16:44.000Z",
+        "generator" : {
+          "displayName" : "Twitter for iPhone",
+          "link" : "http://twitter.com/download/iphone"
+        },
+        "provider" : {
+          "objectType" : "service",
+          "displayName" : "Twitter",
+          "link" : "http://www.twitter.com"
+        },
+        "link" : "http://twitter.com/Kaseyrhiannon33/statuses/601693166547275776",
+        "body" : "RT @girlideas: kylie jenner is 17 and has 3 cars and a house while i'm here regretting the $5 i spent at starbucks \uD83D\uDE10 http://t.co/BbvTgeLrAW",
+        "object" : {
+          "id" : "tag:search.twitter.com,2005:601612447451979776",
+          "objectType" : "activity",
+          "actor" : {
+            "objectType" : "person",
+            "id" : "id:twitter.com:131752870",
+            "link" : "http://www.twitter.com/girlideas",
+            "displayName" : "whut",
+            "postedTime" : "2010-04-11T06:28:00.000Z",
+            "image" : "https://pbs.twimg.com/profile_images/590215166089822208/6MB1LN-N_normal.png",
+            "summary" : null,
+            "links" : [ {
+              "href" : "http://couplefact.com",
+              "rel" : "me"
+            } ],
+            "friendsCount" : 93,
+            "followersCount" : 2142067,
+            "listedCount" : 6159,
+            "statusesCount" : 60635,
+            "twitterTimeZone" : "Eastern Time (US & Canada)",
+            "verified" : false,
+            "utcOffset" : "-14400",
+            "preferredUsername" : "girlideas",
+            "languages" : [ "en" ],
+            "favoritesCount" : 3091
+          },
+          "verb" : "post",
+          "postedTime" : "2015-05-22T04:55:59.000Z",
+          "generator" : {
+            "displayName" : "Twitter Web Client",
+            "link" : "http://twitter.com"
+          },
+          "provider" : {
+            "objectType" : "service",
+            "displayName" : "Twitter",
+            "link" : "http://www.twitter.com"
+          },
+          "link" : "http://twitter.com/girlideas/statuses/601612447451979776",
+          "body" : "kylie jenner is 17 and has 3 cars and a house while i'm here regretting the $5 i spent at starbucks \uD83D\uDE10 http://t.co/BbvTgeLrAW",
+          "object" : {
+            "objectType" : "note",
+            "id" : "object:search.twitter.com,2005:601612447451979776",
+            "summary" : "kylie jenner is 17 and has 3 cars and a house while i'm here regretting the $5 i spent at starbucks \uD83D\uDE10 http://t.co/BbvTgeLrAW",
+            "link" : "http://twitter.com/girlideas/statuses/601612447451979776",
+            "postedTime" : "2015-05-22T04:55:59.000Z"
+          },
+          "favoritesCount" : 2161,
+          "twitter_entities" : {
+            "hashtags" : [ ],
+            "trends" : [ ],
+            "urls" : [ ],
+            "user_mentions" : [ ],
+            "symbols" : [ ],
+            "media" : [ {
+              "id" : 601612445619105793,
+              "id_str" : "601612445619105793",
+              "indices" : [ 102, 124 ],
+              "media_url" : "http://pbs.twimg.com/media/CFlbVPGUsAEvHG-.jpg",
+              "media_url_https" : "https://pbs.twimg.com/media/CFlbVPGUsAEvHG-.jpg",
+              "url" : "http://t.co/BbvTgeLrAW",
+              "display_url" : "pic.twitter.com/BbvTgeLrAW",
+              "expanded_url" : "http://twitter.com/girlideas/status/601612447451979776/photo/1",
+              "type" : "photo",
+              "sizes" : {
+                "large" : {
+                  "w" : 600,
+                  "h" : 852,
+                  "resize" : "fit"
+                },
+                "small" : {
+                  "w" : 340,
+                  "h" : 482,
+                  "resize" : "fit"
+                },
+                "medium" : {
+                  "w" : 600,
+                  "h" : 852,
+                  "resize" : "fit"
+                },
+                "thumb" : {
+                  "w" : 150,
+                  "h" : 150,
+                  "resize" : "crop"
+                }
+              }
+            } ]
+          },
+          "twitter_extended_entities" : {
+            "media" : [ {
+              "id" : 601612445619105793,
+              "id_str" : "601612445619105793",
+              "indices" : [ 102, 124 ],
+              "media_url" : "http://pbs.twimg.com/media/CFlbVPGUsAEvHG-.jpg",
+              "media_url_https" : "https://pbs.twimg.com/media/CFlbVPGUsAEvHG-.jpg",
+              "url" : "http://t.co/BbvTgeLrAW",
+              "display_url" : "pic.twitter.com/BbvTgeLrAW",
+              "expanded_url" : "http://twitter.com/girlideas/status/601612447451979776/photo/1",
+              "type" : "photo",
+              "sizes" : {
+                "large" : {
+                  "w" : 600,
+                  "h" : 852,
+                  "resize" : "fit"
+                },
+                "small" : {
+                  "w" : 340,
+                  "h" : 482,
+                  "resize" : "fit"
+                },
+                "medium" : {
+                  "w" : 600,
+                  "h" : 852,
+                  "resize" : "fit"
+                },
+                "thumb" : {
+                  "w" : 150,
+                  "h" : 150,
+                  "resize" : "crop"
+                }
+              }
+            }, {
+              "id" : 601612446256664577,
+              "id_str" : "601612446256664577",
+              "indices" : [ 102, 124 ],
+              "media_url" : "http://pbs.twimg.com/media/CFlbVReVEAES2DL.jpg",
+              "media_url_https" : "https://pbs.twimg.com/media/CFlbVReVEAES2DL.jpg",
+              "url" : "http://t.co/BbvTgeLrAW",
+              "display_url" : "pic.twitter.com/BbvTgeLrAW",
+              "expanded_url" : "http://twitter.com/girlideas/status/601612447451979776/photo/1",
+              "type" : "photo",
+              "sizes" : {
+                "large" : {
+                  "w" : 600,
+                  "h" : 855,
+                  "resize" : "fit"
+                },
+                "medium" : {
+                  "w" : 600,
+                  "h" : 855,
+                  "resize" : "fit"
+                },
+                "small" : {
+                  "w" : 340,
+                  "h" : 484,
+                  "resize" : "fit"
+                },
+                "thumb" : {
+                  "w" : 150,
+                  "h" : 150,
+                  "resize" : "crop"
+                }
+              }
+            }, {
+              "id" : 601612447011577856,
+              "id_str" : "601612447011577856",
+              "indices" : [ 102, 124 ],
+              "media_url" : "http://pbs.twimg.com/media/CFlbVUSUIAAQ9Ci.jpg",
+              "media_url_https" : "https://pbs.twimg.com/media/CFlbVUSUIAAQ9Ci.jpg",
+              "url" : "http://t.co/BbvTgeLrAW",
+              "display_url" : "pic.twitter.com/BbvTgeLrAW",
+              "expanded_url" : "http://twitter.com/girlideas/status/601612447451979776/photo/1",
+              "type" : "photo",
+              "sizes" : {
+                "medium" : {
+                  "w" : 599,
+                  "h" : 858,
+                  "resize" : "fit"
+                },
+                "small" : {
+                  "w" : 340,
+                  "h" : 487,
+                  "resize" : "fit"
+                },
+                "large" : {
+                  "w" : 599,
+                  "h" : 858,
+                  "resize" : "fit"
+                },
+                "thumb" : {
+                  "w" : 150,
+                  "h" : 150,
+                  "resize" : "crop"
+                }
+              }
+            }, {
+              "id" : 601612446109802496,
+              "id_str" : "601612446109802496",
+              "indices" : [ 102, 124 ],
+              "media_url" : "http://pbs.twimg.com/media/CFlbVQ7UIAAcEzd.jpg",
+              "media_url_https" : "https://pbs.twimg.com/media/CFlbVQ7UIAAcEzd.jpg",
+              "url" : "http://t.co/BbvTgeLrAW",
+              "display_url" : "pic.twitter.com/BbvTgeLrAW",
+              "expanded_url" : "http://twitter.com/girlideas/status/601612447451979776/photo/1",
+              "type" : "photo",
+              "sizes" : {
+                "medium" : {
+                  "w" : 600,
+                  "h" : 850,
+                  "resize" : "fit"
+                },
+                "small" : {
+                  "w" : 340,
+                  "h" : 481,
+                  "resize" : "fit"
+                },
+                "large" : {
+                  "w" : 600,
+                  "h" : 850,
+                  "resize" : "fit"
+                },
+                "thumb" : {
+                  "w" : 150,
+                  "h" : 150,
+                  "resize" : "crop"
+                }
+              }
+            } ]
+          },
+          "twitter_filter_level" : "low",
+          "twitter_lang" : "en"
+        },
+        "favoritesCount" : 0,
+        "twitter_entities" : {
+          "hashtags" : [ ],
+          "trends" : [ ],
+          "urls" : [ ],
+          "user_mentions" : [ {
+            "screen_name" : "girlideas",
+            "name" : "whut",
+            "id" : 131752870,
+            "id_str" : "131752870",
+            "indices" : [ 3, 13 ]
+          } ],
+          "symbols" : [ ],
+          "media" : [ {
+            "id" : 601612445619105793,
+            "id_str" : "601612445619105793",
+            "indices" : [ 117, 139 ],
+            "media_url" : "http://pbs.twimg.com/media/CFlbVPGUsAEvHG-.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/CFlbVPGUsAEvHG-.jpg",
+            "url" : "http://t.co/BbvTgeLrAW",
+            "display_url" : "pic.twitter.com/BbvTgeLrAW",
+            "expanded_url" : "http://twitter.com/girlideas/status/601612447451979776/photo/1",
+            "type" : "photo",
+            "sizes" : {
+              "large" : {
+                "w" : 600,
+                "h" : 852,
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : 340,
+                "h" : 482,
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : 600,
+                "h" : 852,
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : 150,
+                "h" : 150,
+                "resize" : "crop"
+              }
+            },
+            "source_status_id" : 601612447451979776,
+            "source_status_id_str" : "601612447451979776"
+          } ]
+        },
+        "twitter_extended_entities" : {
+          "media" : [ {
+            "id" : 601612445619105793,
+            "id_str" : "601612445619105793",
+            "indices" : [ 117, 139 ],
+            "media_url" : "http://pbs.twimg.com/media/CFlbVPGUsAEvHG-.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/CFlbVPGUsAEvHG-.jpg",
+            "url" : "http://t.co/BbvTgeLrAW",
+            "display_url" : "pic.twitter.com/BbvTgeLrAW",
+            "expanded_url" : "http://twitter.com/girlideas/status/601612447451979776/photo/1",
+            "type" : "photo",
+            "sizes" : {
+              "large" : {
+                "w" : 600,
+                "h" : 852,
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : 340,
+                "h" : 482,
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : 600,
+                "h" : 852,
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : 150,
+                "h" : 150,
+                "resize" : "crop"
+              }
+            },
+            "source_status_id" : 601612447451979776,
+            "source_status_id_str" : "601612447451979776"
+          }, {
+            "id" : 601612446256664577,
+            "id_str" : "601612446256664577",
+            "indices" : [ 117, 139 ],
+            "media_url" : "http://pbs.twimg.com/media/CFlbVReVEAES2DL.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/CFlbVReVEAES2DL.jpg",
+            "url" : "http://t.co/BbvTgeLrAW",
+            "display_url" : "pic.twitter.com/BbvTgeLrAW",
+            "expanded_url" : "http://twitter.com/girlideas/status/601612447451979776/photo/1",
+            "type" : "photo",
+            "sizes" : {
+              "large" : {
+                "w" : 600,
+                "h" : 855,
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : 600,
+                "h" : 855,
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : 340,
+                "h" : 484,
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : 150,
+                "h" : 150,
+                "resize" : "crop"
+              }
+            },
+            "source_status_id" : 601612447451979776,
+            "source_status_id_str" : "601612447451979776"
+          }, {
+            "id" : 601612447011577856,
+            "id_str" : "601612447011577856",
+            "indices" : [ 117, 139 ],
+            "media_url" : "http://pbs.twimg.com/media/CFlbVUSUIAAQ9Ci.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/CFlbVUSUIAAQ9Ci.jpg",
+            "url" : "http://t.co/BbvTgeLrAW",
+            "display_url" : "pic.twitter.com/BbvTgeLrAW",
+            "expanded_url" : "http://twitter.com/girlideas/status/601612447451979776/photo/1",
+            "type" : "photo",
+            "sizes" : {
+              "medium" : {
+                "w" : 599,
+                "h" : 858,
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : 340,
+                "h" : 487,
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : 599,
+                "h" : 858,
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : 150,
+                "h" : 150,
+                "resize" : "crop"
+              }
+            },
+            "source_status_id" : 601612447451979776,
+            "source_status_id_str" : "601612447451979776"
+          }, {
+            "id" : 601612446109802496,
+            "id_str" : "601612446109802496",
+            "indices" : [ 117, 139 ],
+            "media_url" : "http://pbs.twimg.com/media/CFlbVQ7UIAAcEzd.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/CFlbVQ7UIAAcEzd.jpg",
+            "url" : "http://t.co/BbvTgeLrAW",
+            "display_url" : "pic.twitter.com/BbvTgeLrAW",
+            "expanded_url" : "http://twitter.com/girlideas/status/601612447451979776/photo/1",
+            "type" : "photo",
+            "sizes" : {
+              "medium" : {
+                "w" : 600,
+                "h" : 850,
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : 340,
+                "h" : 481,
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : 600,
+                "h" : 850,
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : 150,
+                "h" : 150,
+                "resize" : "crop"
+              }
+            },
+            "source_status_id" : 601612447451979776,
+            "source_status_id_str" : "601612447451979776"
+          } ]
+        },
+        "twitter_filter_level" : "low",
+        "twitter_lang" : "en",
+        "retweetCount" : 2515,
+        "gnip" : {
+          "matching_rules" : [ {
+            "tag" : null
+          } ],
+          "urls" : [ {
+            "url" : "http://t.co/BbvTgeLrAW",
+            "expanded_url" : "http://twitter.com/girlideas/status/601612447451979776/photo/1",
+            "expanded_status" : 200
+          } ],
+          "language" : {
+            "value" : "en"
+          }
+        }
+      }
+    }, {
+      "_index" : "twitter",
+      "_type" : "tweet",
+      "_id" : "AVPeO1Y8GfCWwlhiivHj",
+      "_score" : 1.0,
+      "_source" : {
+        "id" : "tag:search.twitter.com,2005:601692191803744256",
+        "objectType" : "activity",
+        "actor" : {
+          "objectType" : "person",
+          "id" : "id:twitter.com:1143804841",
+          "link" : "http://www.twitter.com/Nicolexxox_x",
+          "displayName" : "Nicole卌",
+          "postedTime" : "2013-02-03T00:36:10.000Z",
+          "image" : "https://pbs.twimg.com/profile_images/596732404724867073/ZJOgQXWy_normal.jpg",
+          "summary" : "卌♕♡✞My Cherry♕♡✞卌 Dance is my passion♡",
+          "links" : [ {
+            "href" : "https://twitter.com/nicolexxox_x/status/574002555530969090",
+            "rel" : "me"
+          } ],
+          "friendsCount" : 670,
+          "followersCount" : 1570,
+          "listedCount" : 15,
+          "statusesCount" : 48419,
+          "twitterTimeZone" : "Casablanca",
+          "verified" : false,
+          "utcOffset" : "3600",
+          "preferredUsername" : "Nicolexxox_x",
+          "languages" : [ "en" ],
+          "location" : {
+            "objectType" : "place",
+            "displayName" : "Uk"
+          },
+          "favoritesCount" : 38882
+        },
+        "verb" : "share",
+        "postedTime" : "2015-05-22T10:12:52.000Z",
+        "generator" : {
+          "displayName" : "Twitter for iPhone",
+          "link" : "http://twitter.com/download/iphone"
+        },
+        "provider" : {
+          "objectType" : "service",
+          "displayName" : "Twitter",
+          "link" : "http://www.twitter.com"
+        },
+        "link" : "http://twitter.com/Nicolexxox_x/statuses/601692191803744256",
+        "body" : "RT @SoDamnTrue: kylie jenner is 17 and has 3 cars and a house while i'm here regretting the $5 i spent at starbucks \uD83D\uDE10 http://t.co/hbcqxreS4v",
+        "object" : {
+          "id" : "tag:search.twitter.com,2005:601530826837209088",
+          "objectType" : "activity",
+          "actor" : {
+            "objectType" : "person",
+            "id" : "id:twitter.com:219049532",
+            "link" : "http://www.twitter.com/SoDamnTrue",
+            "displayName" : "Typical Girl",
+            "postedTime" : "2010-11-23T20:03:19.000Z",
+            "image" : "https://pbs.twimg.com/profile_images/557804611088551936/EmRWUs28_normal.png",
+            "summary" : "Hi babes, I tweet things that are SO DAMN TRUE! Just click that follow button boo, you know you want to! Stay fab! xoxo \ncontactSoDamnTrue@gmail.com",
+            "links" : [ {
+              "href" : null,
+              "rel" : "me"
+            } ],
+            "friendsCount" : 43271,
+            "followersCount" : 4748222,
+            "listedCount" : 7085,
+            "statusesCount" : 40028,
+            "twitterTimeZone" : "Georgetown",
+            "verified" : true,
+            "utcOffset" : "-14400",
+            "preferredUsername" : "SoDamnTrue",
+            "languages" : [ "en" ],
+            "favoritesCount" : 25412
+          },
+          "verb" : "post",
+          "postedTime" : "2015-05-21T23:31:39.000Z",
+          "generator" : {
+            "displayName" : "Twitter for iPhone",
+            "link" : "http://twitter.com/download/iphone"
+          },
+          "provider" : {
+            "objectType" : "service",
+            "displayName" : "Twitter",
+            "link" : "http://www.twitter.com"
+          },
+          "link" : "http://twitter.com/SoDamnTrue/statuses/601530826837209088",
+          "body" : "kylie jenner is 17 and has 3 cars and a house while i'm here regretting the $5 i spent at starbucks \uD83D\uDE10 http://t.co/hbcqxreS4v",
+          "object" : {
+            "objectType" : "note",
+            "id" : "object:search.twitter.com,2005:601530826837209088",
+            "summary" : "kylie jenner is 17 and has 3 cars and a house while i'm here regretting the $5 i spent at starbucks \uD83D\uDE10 http://t.co/hbcqxreS4v",
+            "link" : "http://twitter.com/SoDamnTrue/statuses/601530826837209088",
+            "postedTime" : "2015-05-21T23:31:39.000Z"
+          },
+          "favoritesCount" : 7865,
+          "twitter_entities" : {
+            "hashtags" : [ ],
+            "trends" : [ ],
+            "urls" : [ ],
+            "user_mentions" : [ ],
+            "symbols" : [ ],
+            "media" : [ {
+              "id" : 601530783262609409,
+              "id_str" : "601530783262609409",
+              "indices" : [ 102, 124 ],
+              "media_url" : "http://pbs.twimg.com/media/CFkRD3HUkAEs8cV.jpg",
+              "media_url_https" : "https://pbs.twimg.com/media/CFkRD3HUkAEs8cV.jpg",
+              "url" : "http://t.co/hbcqxreS4v",
+              "display_url" : "pic.twitter.com/hbcqxreS4v",
+              "expanded_url" : "http://twitter.com/SoDamnTrue/status/601530826837209088/photo/1",
+              "type" : "photo",
+              "sizes" : {
+                "large" : {
+                  "w" : 640,
+                  "h" : 909,
+                  "resize" : "fit"
+                },
+                "small" : {
+                  "w" : 340,
+                  "h" : 482,
+                  "resize" : "fit"
+                },
+                "medium" : {
+                  "w" : 600,
+                  "h" : 852,
+                  "resize" : "fit"
+                },
+                "thumb" : {
+                  "w" : 150,
+                  "h" : 150,
+                  "resize" : "crop"
+                }
+              }
+            } ]
+          },
+          "twitter_extended_entities" : {
+            "media" : [ {
+              "id" : 601530783262609409,
+              "id_str" : "601530783262609409",
+              "indices" : [ 102, 124 ],
+              "media_url" : "http://pbs.twimg.com/media/CFkRD3HUkAEs8cV.jpg",
+              "media_url_https" : "https://pbs.twimg.com/media/CFkRD3HUkAEs8cV.jpg",
+              "url" : "http://t.co/hbcqxreS4v",
+              "display_url" : "pic.twitter.com/hbcqxreS4v",
+              "expanded_url" : "http://twitter.com/SoDamnTrue/status/601530826837209088/photo/1",
+              "type" : "photo",
+              "sizes" : {
+                "large" : {
+                  "w" : 640,
+                  "h" : 909,
+                  "resize" : "fit"
+                },
+                "small" : {
+                  "w" : 340,
+                  "h" : 482,
+                  "resize" : "fit"
+                },
+                "medium" : {
+                  "w" : 600,
+                  "h" : 852,
+                  "resize" : "fit"
+                },
+                "thumb" : {
+                  "w" : 150,
+                  "h" : 150,
+                  "resize" : "crop"
+                }
+              }
+            }, {
+              "id" : 601530783359053825,
+              "id_str" : "601530783359053825",
+              "indices" : [ 102, 124 ],
+              "media_url" : "http://pbs.twimg.com/media/CFkRD3eUMAEkIoQ.jpg",
+              "media_url_https" : "https://pbs.twimg.com/media/CFkRD3eUMAEkIoQ.jpg",
+              "url" : "http://t.co/hbcqxreS4v",
+              "display_url" : "pic.twitter.com/hbcqxreS4v",
+              "expanded_url" : "http://twitter.com/SoDamnTrue/status/601530826837209088/photo/1",
+              "type" : "photo",
+              "sizes" : {
+                "medium" : {
+                  "w" : 600,
+                  "h" : 855,
+                  "resize" : "fit"
+                },
+                "large" : {
+                  "w" : 640,
+                  "h" : 912,
+                  "resize" : "fit"
+                },
+                "small" : {
+                  "w" : 340,
+                  "h" : 484,
+                  "resize" : "fit"
+                },
+                "thumb" : {
+                  "w" : 150,
+                  "h" : 150,
+                  "resize" : "crop"
+                }
+              }
+            }, {
+              "id" : 601530783577210880,
+              "id_str" : "601530783577210880",
+              "indices" : [ 102, 124 ],
+              "media_url" : "http://pbs.twimg.com/media/CFkRD4SVAAAhLTW.jpg",
+              "media_url_https" : "https://pbs.twimg.com/media/CFkRD4SVAAAhLTW.jpg",
+              "url" : "http://t.co/hbcqxreS4v",
+              "display_url" : "pic.twitter.com/hbcqxreS4v",
+              "expanded_url" : "http://twitter.com/SoDamnTrue/status/601530826837209088/photo/1",
+              "type" : "photo",
+              "sizes" : {
+                "medium" : {
+                  "w" : 600,
+                  "h" : 858,
+                  "resize" : "fit"
+                },
+                "thumb" : {
+                  "w" : 150,
+                  "h" : 150,
+                  "resize" : "crop"
+                },
+                "small" : {
+                  "w" : 340,
+                  "h" : 486,
+                  "resize" : "fit"
+                },
+                "large" : {
+                  "w" : 640,
+                  "h" : 916,
+                  "resize" : "fit"
+                }
+              }
+            }, {
+              "id" : 601530784583811072,
+              "id_str" : "601530784583811072",
+              "indices" : [ 102, 124 ],
+              "media_url" : "http://pbs.twimg.com/media/CFkRD8CUgAADkAU.jpg",
+              "media_url_https" : "https://pbs.twimg.com/media/CFkRD8CUgAADkAU.jpg",
+              "url" : "http://t.co/hbcqxreS4v",
+              "display_url" : "pic.twitter.com/hbcqxreS4v",
+              "expanded_url" : "http://twitter.com/SoDamnTrue/status/601530826837209088/photo/1",
+              "type" : "photo",
+              "sizes" : {
+                "medium" : {
+                  "w" : 600,
+                  "h" : 850,
+                  "resize" : "fit"
+                },
+                "small" : {
+                  "w" : 340,
+                  "h" : 481,
+                  "resize" : "fit"
+                },
+                "thumb" : {
+                  "w" : 150,
+                  "h" : 150,
+                  "resize" : "crop"
+                },
+                "large" : {
+                  "w" : 640,
+                  "h" : 907,
+                  "resize" : "fit"
+                }
+              }
+            } ]
+          },
+          "twitter_filter_level" : "low",
+          "twitter_lang" : "en"
+        },
+        "favoritesCount" : 0,
+        "twitter_entities" : {
+          "hashtags" : [ ],
+          "trends" : [ ],
+          "urls" : [ ],
+          "user_mentions" : [ {
+            "screen_name" : "SoDamnTrue",
+            "name" : "Typical Girl",
+            "id" : 219049532,
+            "id_str" : "219049532",
+            "indices" : [ 3, 14 ]
+          } ],
+          "symbols" : [ ],
+          "media" : [ {
+            "id" : 601530783262609409,
+            "id_str" : "601530783262609409",
+            "indices" : [ 118, 140 ],
+            "media_url" : "http://pbs.twimg.com/media/CFkRD3HUkAEs8cV.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/CFkRD3HUkAEs8cV.jpg",
+            "url" : "http://t.co/hbcqxreS4v",
+            "display_url" : "pic.twitter.com/hbcqxreS4v",
+            "expanded_url" : "http://twitter.com/SoDamnTrue/status/601530826837209088/photo/1",
+            "type" : "photo",
+            "sizes" : {
+              "large" : {
+                "w" : 640,
+                "h" : 909,
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : 340,
+                "h" : 482,
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : 600,
+                "h" : 852,
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : 150,
+                "h" : 150,
+                "resize" : "crop"
+              }
+            },
+            "source_status_id" : 601530826837209088,
+            "source_status_id_str" : "601530826837209088"
+          } ]
+        },
+        "twitter_extended_entities" : {
+          "media" : [ {
+            "id" : 601530783262609409,
+            "id_str" : "601530783262609409",
+            "indices" : [ 118, 140 ],
+            "media_url" : "http://pbs.twimg.com/media/CFkRD3HUkAEs8cV.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/CFkRD3HUkAEs8cV.jpg",
+            "url" : "http://t.co/hbcqxreS4v",
+            "display_url" : "pic.twitter.com/hbcqxreS4v",
+            "expanded_url" : "http://twitter.com/SoDamnTrue/status/601530826837209088/photo/1",
+            "type" : "photo",
+            "sizes" : {
+              "large" : {
+                "w" : 640,
+                "h" : 909,
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : 340,
+                "h" : 482,
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : 600,
+                "h" : 852,
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : 150,
+                "h" : 150,
+                "resize" : "crop"
+              }
+            },
+            "source_status_id" : 601530826837209088,
+            "source_status_id_str" : "601530826837209088"
+          }, {
+            "id" : 601530783359053825,
+            "id_str" : "601530783359053825",
+            "indices" : [ 118, 140 ],
+            "media_url" : "http://pbs.twimg.com/media/CFkRD3eUMAEkIoQ.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/CFkRD3eUMAEkIoQ.jpg",
+            "url" : "http://t.co/hbcqxreS4v",
+            "display_url" : "pic.twitter.com/hbcqxreS4v",
+            "expanded_url" : "http://twitter.com/SoDamnTrue/status/601530826837209088/photo/1",
+            "type" : "photo",
+            "sizes" : {
+              "medium" : {
+                "w" : 600,
+                "h" : 855,
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : 640,
+                "h" : 912,
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : 340,
+                "h" : 484,
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : 150,
+                "h" : 150,
+                "resize" : "crop"
+              }
+            },
+            "source_status_id" : 601530826837209088,
+            "source_status_id_str" : "601530826837209088"
+          }, {
+            "id" : 601530783577210880,
+            "id_str" : "601530783577210880",
+            "indices" : [ 118, 140 ],
+            "media_url" : "http://pbs.twimg.com/media/CFkRD4SVAAAhLTW.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/CFkRD4SVAAAhLTW.jpg",
+            "url" : "http://t.co/hbcqxreS4v",
+            "display_url" : "pic.twitter.com/hbcqxreS4v",
+            "expanded_url" : "http://twitter.com/SoDamnTrue/status/601530826837209088/photo/1",
+            "type" : "photo",
+            "sizes" : {
+              "medium" : {
+                "w" : 600,
+                "h" : 858,
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : 150,
+                "h" : 150,
+                "resize" : "crop"
+              },
+              "small" : {
+                "w" : 340,
+                "h" : 486,
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : 640,
+                "h" : 916,
+                "resize" : "fit"
+              }
+            },
+            "source_status_id" : 601530826837209088,
+            "source_status_id_str" : "601530826837209088"
+          }, {
+            "id" : 601530784583811072,
+            "id_str" : "601530784583811072",
+            "indices" : [ 118, 140 ],
+            "media_url" : "http://pbs.twimg.com/media/CFkRD8CUgAADkAU.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/CFkRD8CUgAADkAU.jpg",
+            "url" : "http://t.co/hbcqxreS4v",
+            "display_url" : "pic.twitter.com/hbcqxreS4v",
+            "expanded_url" : "http://twitter.com/SoDamnTrue/status/601530826837209088/photo/1",
+            "type" : "photo",
+            "sizes" : {
+              "medium" : {
+                "w" : 600,
+                "h" : 850,
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : 340,
+                "h" : 481,
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : 150,
+                "h" : 150,
+                "resize" : "crop"
+              },
+              "large" : {
+                "w" : 640,
+                "h" : 907,
+                "resize" : "fit"
+              }
+            },
+            "source_status_id" : 601530826837209088,
+            "source_status_id_str" : "601530826837209088"
+          } ]
+        },
+        "twitter_filter_level" : "low",
+        "twitter_lang" : "en",
+        "retweetCount" : 5345,
+        "gnip" : {
+          "matching_rules" : [ {
+            "tag" : null
+          } ],
+          "urls" : [ {
+            "url" : "http://t.co/hbcqxreS4v",
+            "expanded_url" : "http://twitter.com/SoDamnTrue/status/601530826837209088/photo/1",
+            "expanded_status" : 200
+          } ],
+          "language" : {
+            "value" : "en"
+          },
+          "profileLocations" : [ {
+            "objectType" : "place",
+            "geo" : {
+              "type" : "point",
+              "coordinates" : [ -2.69531, 54.75844 ]
+            },
+            "address" : {
+              "country" : "United Kingdom",
+              "countryCode" : "GB"
+            },
+            "displayName" : "United Kingdom"
+          } ]
+        }
+      }
+    }, {
+      "_index" : "twitter",
+      "_type" : "tweet",
+      "_id" : "AVPeO1Y8GfCWwlhiivHn",
+      "_score" : 1.0,
+      "_source" : {
+        "id" : "tag:search.twitter.com,2005:601692236431151104",
+        "objectType" : "activity",
+        "actor" : {
+          "objectType" : "person",
+          "id" : "id:twitter.com:2471260147",
+          "link" : "http://www.twitter.com/balloutdia",
+          "displayName" : "Dia.",
+          "postedTime" : "2014-04-30T16:57:34.000Z",
+          "image" : "https://pbs.twimg.com/profile_images/600831149812883456/2FmKhMhW_normal.jpg",
+          "summary" : "Kire is MINE & M I N E ONLY ♥️",
+          "links" : [ {
+            "href" : null,
+            "rel" : "me"
+          } ],
+          "friendsCount" : 1352,
+          "followersCount" : 1544,
+          "listedCount" : 2,
+          "statusesCount" : 66406,
+          "twitterTimeZone" : null,
+          "verified" : false,
+          "utcOffset" : null,
+          "preferredUsername" : "balloutdia",
+          "languages" : [ "en" ],
+          "favoritesCount" : 17637
+        },
+        "verb" : "post",
+        "postedTime" : "2015-05-22T10:13:02.000Z",
+        "generator" : {
+          "displayName" : "Twitter for iPhone",
+          "link" : "http://twitter.com/download/iphone"
+        },
+        "provider" : {
+          "objectType" : "service",
+          "displayName" : "Twitter",
+          "link" : "http://www.twitter.com"
+        },
+        "link" : "http://twitter.com/balloutdia/statuses/601692236431151104",
+        "body" : "I want Starbucks \uD83D\uDE29\uD83D\uDE0C",
+        "object" : {
+          "objectType" : "note",
+          "id" : "object:search.twitter.com,2005:601692236431151104",
+          "summary" : "I want Starbucks \uD83D\uDE29\uD83D\uDE0C",
+          "link" : "http://twitter.com/balloutdia/statuses/601692236431151104",
+          "postedTime" : "2015-05-22T10:13:02.000Z"
+        },
+        "favoritesCount" : 0,
+        "twitter_entities" : {
+          "hashtags" : [ ],
+          "trends" : [ ],
+          "urls" : [ ],
+          "user_mentions" : [ ],
+          "symbols" : [ ]
+        },
+        "twitter_filter_level" : "low",
+        "twitter_lang" : "en",
+        "retweetCount" : 0,
+        "gnip" : {
+          "matching_rules" : [ {
+            "tag" : null
+          } ],
+          "language" : {
+            "value" : "en"
+          }
+        }
+      }
+    }, {
+      "_index" : "twitter",
+      "_type" : "tweet",
+      "_id" : "AVPeO1Y8GfCWwlhiivHv",
+      "_score" : 1.0,
+      "_source" : {
+        "id" : "tag:search.twitter.com,2005:601692651205844992",
+        "objectType" : "activity",
+        "actor" : {
+          "objectType" : "person",
+          "id" : "id:twitter.com:1053855997",
+          "link" : "http://www.twitter.com/nadiabushard",
+          "displayName" : "Nadia",
+          "postedTime" : "2013-01-02T00:45:25.000Z",
+          "image" : "https://pbs.twimg.com/profile_images/597553249940611072/2nHa4aKx_normal.jpg",
+          "summary" : "Live for today",
+          "links" : [ {
+            "href" : null,
+            "rel" : "me"
+          } ],
+          "friendsCount" : 269,
+          "followersCount" : 493,
+          "listedCount" : 0,
+          "statusesCount" : 4331,
+          "twitterTimeZone" : "Eastern Time (US & Canada)",
+          "verified" : false,
+          "utcOffset" : "-14400",
+          "preferredUsername" : "nadiabushard",
+          "languages" : [ "en" ],
+          "favoritesCount" : 5479
+        },
+        "verb" : "share",
+        "postedTime" : "2015-05-22T10:14:41.000Z",
+        "generator" : {
+          "displayName" : "Twitter for iPhone",
+          "link" : "http://twitter.com/download/iphone"
+        },
+        "provider" : {
+          "objectType" : "service",
+          "displayName" : "Twitter",
+          "link" : "http://www.twitter.com"
+        },
+        "link" : "http://twitter.com/nadiabushard/statuses/601692651205844992",
+        "body" : "RT @TheDreamCIoset: kylie jenner is 17 and has 3 cars and a house while i'm here regretting the $5 i spent at starbucks \uD83D\uDE10 http://t.co/if0SV…",
+        "object" : {
+          "id" : "tag:search.twitter.com,2005:601581291188965376",
+          "objectType" : "activity",
+          "actor" : {
+            "objectType" : "person",
+            "id" : "id:twitter.com:2274924564",
+            "link" : "http://www.twitter.com/TheDreamCIoset",
+            "displayName" : "Dream Closet",
+            "postedTime" : "2014-01-03T18:42:52.000Z",
+            "image" : "https://pbs.twimg.com/profile_images/541122967384883200/7DD4D8xs_normal.jpeg",
+            "summary" : "Clothes, jewelrey, shoes, bags, & accesories for every occasion. We do not own the content we post! | Contact: @Powerful",
+            "links" : [ {
+              "href" : null,
+              "rel" : "me"
+            } ],
+            "friendsCount" : 17,
+            "followersCount" : 316878,
+            "listedCount" : 264,
+            "statusesCount" : 4738,
+            "twitterTimeZone" : "Eastern Time (US & Canada)",
+            "verified" : false,
+            "utcOffset" : "-14400",
+            "preferredUsername" : "TheDreamCIoset",
+            "languages" : [ "en" ],
+            "location" : {
+              "objectType" : "place",
+              "displayName" : "♔ Victoria's Secret ♔"
+            },
+            "favoritesCount" : 5715
+          },
+          "verb" : "post",
+          "postedTime" : "2015-05-22T02:52:11.000Z",
+          "generator" : {
+            "displayName" : "Buffer",
+            "link" : "http://bufferapp.com"
+          },
+          "provider" : {
+            "objectType" : "service",
+            "displayName" : "Twitter",
+            "link" : "http://www.twitter.com"
+          },
+          "link" : "http://twitter.com/TheDreamCIoset/statuses/601581291188965376",
+          "body" : "kylie jenner is 17 and has 3 cars and a house while i'm here regretting the $5 i spent at starbucks \uD83D\uDE10 http://t.co/if0SV95bnv",
+          "object" : {
+            "objectType" : "note",
+            "id" : "object:search.twitter.com,2005:601581291188965376",
+            "summary" : "kylie jenner is 17 and has 3 cars and a house while i'm here regretting the $5 i spent at starbucks \uD83D\uDE10 http://t.co/if0SV95bnv",
+            "link" : "http://twitter.com/TheDreamCIoset/statuses/601581291188965376",
+            "postedTime" : "2015-05-22T02:52:11.000Z"
+          },
+          "favoritesCount" : 1295,
+          "twitter_entities" : {
+            "hashtags" : [ ],
+            "trends" : [ ],
+            "urls" : [ ],
+            "user_mentions" : [ ],
+            "symbols" : [ ],
+            "media" : [ {
+              "id" : 601530783262609409,
+              "id_str" : "601530783262609409",
+              "indices" : [ 102, 124 ],
+              "media_url" : "http://pbs.twimg.com/media/CFkRD3HUkAEs8cV.jpg",
+              "media_url_https" : "https://pbs.twimg.com/media/CFkRD3HUkAEs8cV.jpg",
+              "url" : "http://t.co/if0SV95bnv",
+              "display_url" : "pic.twitter.com/if0SV95bnv",
+              "expanded_url" : "http://twitter.com/SoDamnTrue/status/601530826837209088/photo/1",
+              "type" : "photo",
+              "sizes" : {
+                "large" : {
+                  "w" : 640,
+                  "h" : 909,
+                  "resize" : "fit"
+                },
+                "small" : {
+                  "w" : 340,
+                  "h" : 482,
+                  "resize" : "fit"
+                },
+                "medium" : {
+                  "w" : 600,
+                  "h" : 852,
+                  "resize" : "fit"
+                },
+                "thumb" : {
+                  "w" : 150,
+                  "h" : 150,
+                  "resize" : "crop"
+                }
+              },
+              "source_status_id" : 601530826837209088,
+              "source_status_id_str" : "601530826837209088"
+            } ]
+          },
+          "twitter_extended_entities" : {
+            "media" : [ {
+              "id" : 601530783262609409,
+              "id_str" : "601530783262609409",
+              "indices" : [ 102, 124 ],
+              "media_url" : "http://pbs.twimg.com/media/CFkRD3HUkAEs8cV.jpg",
+              "media_url_https" : "https://pbs.twimg.com/media/CFkRD3HUkAEs8cV.jpg",
+              "url" : "http://t.co/if0SV95bnv",
+              "display_url" : "pic.twitter.com/if0SV95bnv",
+              "expanded_url" : "http://twitter.com/SoDamnTrue/status/601530826837209088/photo/1",
+              "type" : "photo",
+              "sizes" : {
+                "large" : {
+                  "w" : 640,
+                  "h" : 909,
+                  "resize" : "fit"
+                },
+                "small" : {
+                  "w" : 340,
+                  "h" : 482,
+                  "resize" : "fit"
+                },
+                "medium" : {
+                  "w" : 600,
+                  "h" : 852,
+                  "resize" : "fit"
+                },
+                "thumb" : {
+                  "w" : 150,
+                  "h" : 150,
+                  "resize" : "crop"
+                }
+              },
+              "source_status_id" : 601530826837209088,
+              "source_status_id_str" : "601530826837209088"
+            }, {
+              "id" : 601530783359053825,
+              "id_str" : "601530783359053825",
+              "indices" : [ 102, 124 ],
+              "media_url" : "http://pbs.twimg.com/media/CFkRD3eUMAEkIoQ.jpg",
+              "media_url_https" : "https://pbs.twimg.com/media/CFkRD3eUMAEkIoQ.jpg",
+              "url" : "http://t.co/if0SV95bnv",
+              "display_url" : "pic.twitter.com/if0SV95bnv",
+              "expanded_url" : "http://twitter.com/SoDamnTrue/status/601530826837209088/photo/1",
+              "type" : "photo",
+              "sizes" : {
+                "medium" : {
+                  "w" : 600,
+                  "h" : 855,
+                  "resize" : "fit"
+                },
+                "large" : {
+                  "w" : 640,
+                  "h" : 912,
+                  "resize" : "fit"
+                },
+                "small" : {
+                  "w" : 340,
+                  "h" : 484,
+                  "resize" : "fit"
+                },
+                "thumb" : {
+                  "w" : 150,
+                  "h" : 150,
+                  "resize" : "crop"
+                }
+              },
+              "source_status_id" : 601530826837209088,
+              "source_status_id_str" : "601530826837209088"
+            }, {
+              "id" : 601530783577210880,
+              "id_str" : "601530783577210880",
+              "indices" : [ 102, 124 ],
+              "media_url" : "http://pbs.twimg.com/media/CFkRD4SVAAAhLTW.jpg",
+              "media_url_https" : "https://pbs.twimg.com/media/CFkRD4SVAAAhLTW.jpg",
+              "url" : "http://t.co/if0SV95bnv",
+              "display_url" : "pic.twitter.com/if0SV95bnv",
+              "expanded_url" : "http://twitter.com/SoDamnTrue/status/601530826837209088/photo/1",
+              "type" : "photo",
+              "sizes" : {
+                "medium" : {
+                  "w" : 600,
+                  "h" : 858,
+                  "resize" : "fit"
+                },
+                "thumb" : {
+                  "w" : 150,
+                  "h" : 150,
+                  "resize" : "crop"
+                },
+                "small" : {
+                  "w" : 340,
+                  "h" : 486,
+                  "resize" : "fit"
+                },
+                "large" : {
+                  "w" : 640,
+                  "h" : 916,
+                  "resize" : "fit"
+                }
+              },
+              "source_status_id" : 601530826837209088,
+              "source_status_id_str" : "601530826837209088"
+            }, {
+              "id" : 601530784583811072,
+              "id_str" : "601530784583811072",
+              "indices" : [ 102, 124 ],
+              "media_url" : "http://pbs.twimg.com/media/CFkRD8CUgAADkAU.jpg",
+              "media_url_https" : "https://pbs.twimg.com/media/CFkRD8CUgAADkAU.jpg",
+              "url" : "http://t.co/if0SV95bnv",
+              "display_url" : "pic.twitter.com/if0SV95bnv",
+              "expanded_url" : "http://twitter.com/SoDamnTrue/status/601530826837209088/photo/1",
+              "type" : "photo",
+              "sizes" : {
+                "medium" : {
+                  "w" : 600,
+                  "h" : 850,
+                  "resize" : "fit"
+                },
+                "small" : {
+                  "w" : 340,
+                  "h" : 481,
+                  "resize" : "fit"
+                },
+                "thumb" : {
+                  "w" : 150,
+                  "h" : 150,
+                  "resize" : "crop"
+                },
+                "large" : {
+                  "w" : 640,
+                  "h" : 907,
+                  "resize" : "fit"
+                }
+              },
+              "source_status_id" : 601530826837209088,
+              "source_status_id_str" : "601530826837209088"
+            } ]
+          },
+          "twitter_filter_level" : "low",
+          "twitter_lang" : "en"
+        },
+        "favoritesCount" : 0,
+        "twitter_entities" : {
+          "hashtags" : [ ],
+          "trends" : [ ],
+          "urls" : [ ],
+          "user_mentions" : [ {
+            "screen_name" : "TheDreamCIoset",
+            "name" : "Dream Closet",
+            "id" : 2274924564,
+            "id_str" : "2274924564",
+            "indices" : [ 3, 18 ]
+          } ],
+          "symbols" : [ ],
+          "media" : [ {
+            "id" : 601530783262609409,
+            "id_str" : "601530783262609409",
+            "indices" : [ 122, 140 ],
+            "media_url" : "http://pbs.twimg.com/media/CFkRD3HUkAEs8cV.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/CFkRD3HUkAEs8cV.jpg",
+            "url" : "http://t.co/if0SV95bnv",
+            "display_url" : "pic.twitter.com/if0SV95bnv",
+            "expanded_url" : "http://twitter.com/SoDamnTrue/status/601530826837209088/photo/1",
+            "type" : "photo",
+            "sizes" : {
+              "large" : {
+                "w" : 640,
+                "h" : 909,
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : 340,
+                "h" : 482,
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : 600,
+                "h" : 852,
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : 150,
+                "h" : 150,
+                "resize" : "crop"
+              }
+            },
+            "source_status_id" : 601530826837209088,
+            "source_status_id_str" : "601530826837209088"
+          } ]
+        },
+        "twitter_extended_entities" : {
+          "media" : [ {
+            "id" : 601530783262609409,
+            "id_str" : "601530783262609409",
+            "indices" : [ 122, 140 ],
+            "media_url" : "http://pbs.twimg.com/media/CFkRD3HUkAEs8cV.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/CFkRD3HUkAEs8cV.jpg",
+            "url" : "http://t.co/if0SV95bnv",
+            "display_url" : "pic.twitter.com/if0SV95bnv",
+            "expanded_url" : "http://twitter.com/SoDamnTrue/status/601530826837209088/photo/1",
+            "type" : "photo",
+            "sizes" : {
+              "large" : {
+                "w" : 640,
+                "h" : 909,
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : 340,
+                "h" : 482,
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : 600,
+                "h" : 852,
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : 150,
+                "h" : 150,
+                "resize" : "crop"
+              }
+            },
+            "source_status_id" : 601530826837209088,
+            "source_status_id_str" : "601530826837209088"
+          }, {
+            "id" : 601530783359053825,
+            "id_str" : "601530783359053825",
+            "indices" : [ 122, 140 ],
+            "media_url" : "http://pbs.twimg.com/media/CFkRD3eUMAEkIoQ.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/CFkRD3eUMAEkIoQ.jpg",
+            "url" : "http://t.co/if0SV95bnv",
+            "display_url" : "pic.twitter.com/if0SV95bnv",
+            "expanded_url" : "http://twitter.com/SoDamnTrue/status/601530826837209088/photo/1",
+            "type" : "photo",
+            "sizes" : {
+              "medium" : {
+                "w" : 600,
+                "h" : 855,
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : 640,
+                "h" : 912,
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : 340,
+                "h" : 484,
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : 150,
+                "h" : 150,
+                "resize" : "crop"
+              }
+            },
+            "source_status_id" : 601530826837209088,
+            "source_status_id_str" : "601530826837209088"
+          }, {
+            "id" : 601530783577210880,
+            "id_str" : "601530783577210880",
+            "indices" : [ 122, 140 ],
+            "media_url" : "http://pbs.twimg.com/media/CFkRD4SVAAAhLTW.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/CFkRD4SVAAAhLTW.jpg",
+            "url" : "http://t.co/if0SV95bnv",
+            "display_url" : "pic.twitter.com/if0SV95bnv",
+            "expanded_url" : "http://twitter.com/SoDamnTrue/status/601530826837209088/photo/1",
+            "type" : "photo",
+            "sizes" : {
+              "medium" : {
+                "w" : 600,
+                "h" : 858,
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : 150,
+                "h" : 150,
+                "resize" : "crop"
+              },
+              "small" : {
+                "w" : 340,
+                "h" : 486,
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : 640,
+                "h" : 916,
+                "resize" : "fit"
+              }
+            },
+            "source_status_id" : 601530826837209088,
+            "source_status_id_str" : "601530826837209088"
+          }, {
+            "id" : 601530784583811072,
+            "id_str" : "601530784583811072",
+            "indices" : [ 122, 140 ],
+            "media_url" : "http://pbs.twimg.com/media/CFkRD8CUgAADkAU.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/CFkRD8CUgAADkAU.jpg",
+            "url" : "http://t.co/if0SV95bnv",
+            "display_url" : "pic.twitter.com/if0SV95bnv",
+            "expanded_url" : "http://twitter.com/SoDamnTrue/status/601530826837209088/photo/1",
+            "type" : "photo",
+            "sizes" : {
+              "medium" : {
+                "w" : 600,
+                "h" : 850,
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : 340,
+                "h" : 481,
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : 150,
+                "h" : 150,
+                "resize" : "crop"
+              },
+              "large" : {
+                "w" : 640,
+                "h" : 907,
+                "resize" : "fit"
+              }
+            },
+            "source_status_id" : 601530826837209088,
+            "source_status_id_str" : "601530826837209088"
+          } ]
+        },
+        "twitter_filter_level" : "low",
+        "twitter_lang" : "en",
+        "retweetCount" : 1051,
+        "gnip" : {
+          "matching_rules" : [ {
+            "tag" : null
+          } ],
+          "urls" : [ {
+            "url" : "http://t.co/if0SV95bnv",
+            "expanded_url" : "http://twitter.com/SoDamnTrue/status/601530826837209088/photo/1",
+            "expanded_status" : 200
+          } ],
+          "language" : {
+            "value" : "en"
+          }
+        }
+      }
+    }, {
+      "_index" : "twitter",
+      "_type" : "tweet",
+      "_id" : "AVPeO1Y9GfCWwlhiivH3",
+      "_score" : 1.0,
+      "_source" : {
+        "id" : "tag:search.twitter.com,2005:601692521803153409",
+        "objectType" : "activity",
+        "actor" : {
+          "objectType" : "person",
+          "id" : "id:twitter.com:101611375",
+          "link" : "http://www.twitter.com/MrGees23",
+          "displayName" : "Harry",
+          "postedTime" : "2010-01-04T00:26:40.000Z",
+          "image" : "https://pbs.twimg.com/profile_images/600675596872642561/h01VqJ7y_normal.png",
+          "summary" : "20. 'Darling little ginger man'. Secret fox who studies science and guards treasure. Absolute terror.",
+          "links" : [ {
+            "href" : null,
+            "rel" : "me"
+          } ],
+          "friendsCount" : 783,
+          "followersCount" : 658,
+          "listedCount" : 14,
+          "statusesCount" : 44805,
+          "twitterTimeZone" : "London",
+          "verified" : false,
+          "utcOffset" : "3600",
+          "preferredUsername" : "MrGees23",
+          "languages" : [ "en" ],
+          "location" : {
+            "objectType" : "place",
+            "displayName" : "London"
+          },
+          "favoritesCount" : 7615
+        },
+        "verb" : "post",
+        "postedTime" : "2015-05-22T10:14:10.000Z",
+        "generator" : {
+          "displayName" : "Mobile Web (M5)",
+          "link" : "https://mobile.twitter.com"
+        },
+        "provider" : {
+          "objectType" : "service",
+          "displayName" : "Twitter",
+          "link" : "http://www.twitter.com"
+        },
+        "link" : "http://twitter.com/MrGees23/statuses/601692521803153409",
+        "body" : "Obvs we went for a Starbucks that was arguably less healthy and double the price instead, but hey ho.",
+        "object" : {
+          "objectType" : "note",
+          "id" : "object:search.twitter.com,2005:601692521803153409",
+          "summary" : "Obvs we went for a Starbucks that was arguably less healthy and double the price instead, but hey ho.",
+          "link" : "http://twitter.com/MrGees23/statuses/601692521803153409",
+          "postedTime" : "2015-05-22T10:14:10.000Z"
+        },
+        "inReplyTo" : {
+          "link" : "http://twitter.com/MrGees23/statuses/601691597978345472"
+        },
+        "favoritesCount" : 0,
+        "twitter_entities" : {
+          "hashtags" : [ ],
+          "trends" : [ ],
+          "urls" : [ ],
+          "user_mentions" : [ ],
+          "symbols" : [ ]
+        },
+        "twitter_filter_level" : "low",
+        "twitter_lang" : "en",
+        "retweetCount" : 0,
+        "gnip" : {
+          "matching_rules" : [ {
+            "tag" : null
+          } ],
+          "language" : {
+            "value" : "en"
+          },
+          "profileLocations" : [ {
+            "objectType" : "place",
+            "geo" : {
+              "type" : "point",
+              "coordinates" : [ -0.12574, 51.50853 ]
+            },
+            "address" : {
+              "country" : "United Kingdom",
+              "countryCode" : "GB",
+              "locality" : "London",
+              "region" : "England"
+            },
+            "displayName" : "London, England, United Kingdom"
+          } ]
+        }
+      }
+    }, {
+      "_index" : "twitter",
+      "_type" : "tweet",
+      "_id" : "AVPeO1Y9GfCWwlhiivH4",
+      "_score" : 1.0,
+      "_source" : {
+        "id" : "tag:search.twitter.com,2005:601692542174912512",
+        "objectType" : "activity",
+        "actor" : {
+          "objectType" : "person",
+          "id" : "id:twitter.com:2785740943",
+          "link" : "http://www.twitter.com/HensmanRosangel",
+          "displayName" : "Rosangel Hensman",
+          "postedTime" : "2014-09-02T10:46:10.000Z",
+          "image" : "https://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+          "summary" : null,
+          "links" : [ {
+            "href" : null,
+            "rel" : "me"
+          } ],
+          "friendsCount" : 825,
+          "followersCount" : 590,
+          "listedCount" : 6,
+          "statusesCount" : 2445,
+          "twitterTimeZone" : null,
+          "verified" : false,
+          "utcOffset" : null,
+          "preferredUsername" : "HensmanRosangel",
+          "languages" : [ "en" ],
+          "favoritesCount" : 0
+        },
+        "verb" : "post",
+        "postedTime" : "2015-05-22T10:14:15.000Z",
+        "generator" : {
+          "displayName" : "Manou Tweeting",
+          "link" : "http://www.tsepa.net"
+        },
+        "provider" : {
+          "objectType" : "service",
+          "displayName" : "Twitter",
+          "link" : "http://www.twitter.com"
+        },
+        "link" : "http://twitter.com/HensmanRosangel/statuses/601692542174912512",
+        "body" : "Starbucks in Deal With Spotify to Stream Music http://t.co/XNg6hbn9Q6",
+        "object" : {
+          "objectType" : "note",
+          "id" : "object:search.twitter.com,2005:601692542174912512",
+          "summary" : "Starbucks in Deal With Spotify to Stream Music http://t.co/XNg6hbn9Q6",
+          "link" : "http://twitter.com/HensmanRosangel/statuses/601692542174912512",
+          "postedTime" : "2015-05-22T10:14:15.000Z"
+        },
+        "favoritesCount" : 0,
+        "twitter_entities" : {
+          "hashtags" : [ ],
+          "trends" : [ ],
+          "urls" : [ {
+            "url" : "http://t.co/XNg6hbn9Q6",
+            "expanded_url" : "http://goo.gl/sLXBtS",
+            "display_url" : "goo.gl/sLXBtS",
+            "indices" : [ 47, 69 ]
+          } ],
+          "user_mentions" : [ ],
+          "symbols" : [ ]
+        },
+        "twitter_filter_level" : "low",
+        "twitter_lang" : "en",
+        "retweetCount" : 0,
+        "gnip" : {
+          "matching_rules" : [ {
+            "tag" : null
+          } ],
+          "urls" : [ {
+            "url" : "http://t.co/XNg6hbn9Q6",
+            "expanded_url" : "http://www.tsepa.com/starbucks-in-deal-with-spotify-to-stream-music/",
+            "expanded_status" : 200
+          } ],
+          "language" : {
+            "value" : "en"
+          }
+        }
+      }
+    }, {
+      "_index" : "twitter",
+      "_type" : "tweet",
+      "_id" : "AVPeO1Y9GfCWwlhiivH5",
+      "_score" : 1.0,
+      "_source" : {
+        "id" : "tag:search.twitter.com,2005:601692833016217602",
+        "objectType" : "activity",
+        "actor" : {
+          "objectType" : "person",
+          "id" : "id:twitter.com:1268051245",
+          "link" : "http://www.twitter.com/jotyed",
+          "displayName" : "jot te",
+          "postedTime" : "2013-03-14T21:28:50.000Z",
+          "image" : "https://pbs.twimg.com/profile_images/561073846866829313/3Xdvs_7y_normal.jpeg",
+          "summary" : null,
+          "links" : [ {
+            "href" : null,
+            "rel" : "me"
+          } ],
+          "friendsCount" : 643,
+          "followersCount" : 92,
+          "listedCount" : 5,
+          "statusesCount" : 4076,
+          "twitterTimeZone" : "Pacific Time (US & Canada)",
+          "verified" : false,
+          "utcOffset" : "-25200",
+          "preferredUsername" : "jotyed",
+          "languages" : [ "en" ],
+          "favoritesCount" : 1163
+        },
+        "verb" : "share",
+        "postedTime" : "2015-05-22T10:15:24.000Z",
+        "generator" : {
+          "displayName" : "Twitter for iPad",
+          "link" : "http://twitter.com/#!/download/ipad"
+        },
+        "provider" : {
+          "objectType" : "service",
+          "displayName" : "Twitter",
+          "link" : "http://www.twitter.com"
+        },
+        "link" : "http://twitter.com/jotyed/statuses/601692833016217602",
+        "body" : "RT @AVGFree: Cyber Criminals Using Starbucks Gift Cards to steal money http://t.co/rC2R2thd7T http://t.co/ZKRKivieFW",
+        "object" : {
+          "id" : "tag:search.twitter.com,2005:601691732204494848",
+          "objectType" : "activity",
+          "actor" : {
+            "objectType" : "person",
+            "id" : "id:twitter.com:61781392",
+            "link" : "http://www.twitter.com/AVGFree",
+            "displayName" : "AVGFree",
+            "postedTime" : "2009-07-31T14:24:08.000Z",
+            "image" : "https://pbs.twimg.com/profile_images/510057645122678784/-vD1xsVg_normal.png",
+            "summary" : "The Official Twitter account for AVG Technologies. Our award winning products let you be yourself on #PCs #iPhone and #Android devices",
+            "links" : [ {
+              "href" : "http://www.avg.com",
+              "rel" : "me"
+            } ],
+            "friendsCount" : 5636,
+            "followersCount" : 221953,
+            "listedCount" : 1187,
+            "statusesCount" : 13679,
+            "twitterTimeZone" : "Pacific Time (US & Canada)",
+            "verified" : true,
+            "utcOffset" : "-25200",
+            "preferredUsername" : "AVGFree",
+            "languages" : [ "en" ],
+            "location" : {
+              "objectType" : "place",
+              "displayName" : "Download us FREE today:"
+            },
+            "favoritesCount" : 899
+          },
+          "verb" : "post",
+          "postedTime" : "2015-05-22T10:11:02.000Z",
+          "generator" : {
+            "displayName" : "Buffer",
+            "link" : "http://bufferapp.com"
+          },
+          "provider" : {
+            "objectType" : "service",
+            "displayName" : "Twitter",
+            "link" : "http://www.twitter.com"
+          },
+          "link" : "http://twitter.com/AVGFree/statuses/601691732204494848",
+          "body" : "Cyber Criminals Using Starbucks Gift Cards to steal money http://t.co/rC2R2thd7T http://t.co/ZKRKivieFW",
+          "object" : {
+            "objectType" : "note",
+            "id" : "object:search.twitter.com,2005:601691732204494848",
+            "summary" : "Cyber Criminals Using Starbucks Gift Cards to steal money http://t.co/rC2R2thd7T http://t.co/ZKRKivieFW",
+            "link" : "http://twitter.com/AVGFree/statuses/601691732204494848",
+            "postedTime" : "2015-05-22T10:11:02.000Z"
+          },
+          "favoritesCount" : 0,
+          "twitter_entities" : {
+            "hashtags" : [ ],
+            "trends" : [ ],
+            "urls" : [ {
+              "url" : "http://t.co/rC2R2thd7T",
+              "expanded_url" : "http://avgclick.me/1doh6D9",
+              "display_url" : "avgclick.me/1doh6D9",
+              "indices" : [ 58, 80 ]
+            } ],
+            "user_mentions" : [ ],
+            "symbols" : [ ],
+            "media" : [ {
+              "id" : 601691732141580289,
+              "id_str" : "601691732141580289",
+              "indices" : [ 81, 103 ],
+              "media_url" : "http://pbs.twimg.com/media/CFmjcUaWoAEQJ2v.jpg",
+              "media_url_https" : "https://pbs.twimg.com/media/CFmjcUaWoAEQJ2v.jpg",
+              "url" : "http://t.co/ZKRKivieFW",
+              "display_url" : "pic.twitter.com/ZKRKivieFW",
+              "expanded_url" : "http://twitter.com/AVGFree/status/601691732204494848/photo/1",
+              "type" : "photo",
+              "sizes" : {
+                "thumb" : {
+                  "w" : 150,
+                  "h" : 150,
+                  "resize" : "crop"
+                },
+                "small" : {
+                  "w" : 340,
+                  "h" : 191,
+                  "resize" : "fit"
+                },
+                "medium" : {
+                  "w" : 596,
+                  "h" : 336,
+                  "resize" : "fit"
+                },
+                "large" : {
+                  "w" : 596,
+                  "h" : 336,
+                  "resize" : "fit"
+                }
+              }
+            } ]
+          },
+          "twitter_extended_entities" : {
+            "media" : [ {
+              "id" : 601691732141580289,
+              "id_str" : "601691732141580289",
+              "indices" : [ 81, 103 ],
+              "media_url" : "http://pbs.twimg.com/media/CFmjcUaWoAEQJ2v.jpg",
+              "media_url_https" : "https://pbs.twimg.com/media/CFmjcUaWoAEQJ2v.jpg",
+              "url" : "http://t.co/ZKRKivieFW",
+              "display_url" : "pic.twitter.com/ZKRKivieFW",
+              "expanded_url" : "http://twitter.com/AVGFree/status/601691732204494848/photo/1",
+              "type" : "photo",
+              "sizes" : {
+                "thumb" : {
+                  "w" : 150,
+                  "h" : 150,
+                  "resize" : "crop"
+                },
+                "small" : {
+                  "w" : 340,
+                  "h" : 191,
+                  "resize" : "fit"
+                },
+                "medium" : {
+                  "w" : 596,
+                  "h" : 336,
+                  "resize" : "fit"
+                },
+                "large" : {
+                  "w" : 596,
+                  "h" : 336,
+                  "resize" : "fit"
+                }
+              }
+            } ]
+          },
+          "twitter_filter_level" : "low",
+          "twitter_lang" : "en"
+        },
+        "favoritesCount" : 0,
+        "twitter_entities" : {
+          "hashtags" : [ ],
+          "trends" : [ ],
+          "urls" : [ {
+            "url" : "http://t.co/rC2R2thd7T",
+            "expanded_url" : "http://avgclick.me/1doh6D9",
+            "display_url" : "avgclick.me/1doh6D9",
+            "indices" : [ 71, 93 ]
+          } ],
+          "user_mentions" : [ {
+            "screen_name" : "AVGFree",
+            "name" : "AVGFree",
+            "id" : 61781392,
+            "id_str" : "61781392",
+            "indices" : [ 3, 11 ]
+          } ],
+          "symbols" : [ ],
+          "media" : [ {
+            "id" : 601691732141580289,
+            "id_str" : "601691732141580289",
+            "indices" : [ 94, 116 ],
+            "media_url" : "http://pbs.twimg.com/media/CFmjcUaWoAEQJ2v.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/CFmjcUaWoAEQJ2v.jpg",
+            "url" : "http://t.co/ZKRKivieFW",
+            "display_url" : "pic.twitter.com/ZKRKivieFW",
+            "expanded_url" : "http://twitter.com/AVGFree/status/601691732204494848/photo/1",
+            "type" : "photo",
+            "sizes" : {
+              "thumb" : {
+                "w" : 150,
+                "h" : 150,
+                "resize" : "crop"
+              },
+              "small" : {
+                "w" : 340,
+                "h" : 191,
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : 596,
+                "h" : 336,
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : 596,
+                "h" : 336,
+                "resize" : "fit"
+              }
+            },
+            "source_status_id" : 601691732204494848,
+            "source_status_id_str" : "601691732204494848"
+          } ]
+        },
+        "twitter_extended_entities" : {
+          "media" : [ {
+            "id" : 601691732141580289,
+            "id_str" : "601691732141580289",
+            "indices" : [ 94, 116 ],
+            "media_url" : "http://pbs.twimg.com/media/CFmjcUaWoAEQJ2v.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/CFmjcUaWoAEQJ2v.jpg",
+            "url" : "http://t.co/ZKRKivieFW",
+            "display_url" : "pic.twitter.com/ZKRKivieFW",
+            "expanded_url" : "http://twitter.com/AVGFree/status/601691732204494848/photo/1",
+            "type" : "photo",
+            "sizes" : {
+              "thumb" : {
+                "w" : 150,
+                "h" : 150,
+                "resize" : "crop"
+              },
+              "small" : {
+                "w" : 340,
+                "h" : 191,
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : 596,
+                "h" : 336,
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : 596,
+                "h" : 336,
+                "resize" : "fit"
+              }
+            },
+            "source_status_id" : 601691732204494848,
+            "source_status_id_str" : "601691732204494848"
+          } ]
+        },
+        "twitter_filter_level" : "low",
+        "twitter_lang" : "en",
+        "retweetCount" : 4,
+        "gnip" : {
+          "matching_rules" : [ {
+            "tag" : null
+          } ],
+          "urls" : [ {
+            "url" : "http://t.co/rC2R2thd7T",
+            "expanded_url" : "http://now.avg.com/hackers-using-starbucks-gift-cards-to-steal-money/?utm_content=buffer77d0e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
+            "expanded_status" : 200
+          }, {
+            "url" : "http://t.co/ZKRKivieFW",
+            "expanded_url" : "http://twitter.com/AVGFree/status/601691732204494848/photo/1",
+            "expanded_status" : 200
+          } ],
+          "language" : {
+            "value" : "en"
+          }
+        }
+      }
+    }, {
+      "_index" : "twitter",
+      "_type" : "tweet",
+      "_id" : "AVPeO1Y9GfCWwlhiivH7",
+      "_score" : 1.0,
+      "_source" : {
+        "id" : "tag:search.twitter.com,2005:601693062616625152",
+        "objectType" : "activity",
+        "actor" : {
+          "objectType" : "person",
+          "id" : "id:twitter.com:557536575",
+          "link" : "http://www.twitter.com/yoonssi530",
+          "displayName" : "gin",
+          "postedTime" : "2012-04-19T05:38:18.000Z",
+          "image" : "https://pbs.twimg.com/profile_images/601072531185868801/t_l5f3Zr_normal.jpg",
+          "summary" : "i stan bunch of idols.. i didnt choose them but they chose me. #lol",
+          "links" : [ {
+            "href" : null,
+            "rel" : "me"
+          } ],
+          "friendsCount" : 147,
+          "followersCount" : 72,
+          "listedCount" : 1,
+          "statusesCount" : 12662,
+          "twitterTimeZone" : "Bangkok",
+          "verified" : false,
+          "utcOffset" : "25200",
+          "preferredUsername" : "yoonssi530",
+          "languages" : [ "en" ],
+          "favoritesCount" : 1617
+        },
+        "verb" : "share",
+        "postedTime" : "2015-05-22T10:16:19.000Z",
+        "generator" : {
+          "displayName" : "Twitter for Android",
+          "link" : "http://twitter.com/download/android"
+        },
+        "provider" : {
+          "objectType" : "service",
+          "displayName" : "Twitter",
+          "link" : "http://www.twitter.com"
+        },
+        "link" : "http://twitter.com/yoonssi530/statuses/601693062616625152",
+        "body" : "RT @mystarmyangel: They prepared 100 bags with customised portable battery/Innisfree mineral mist + snacks + starbucks drink + YoonA's prom…",
+        "object" : {
+          "id" : "tag:search.twitter.com,2005:601680747280269312",
+          "objectType" : "activity",
+          "actor" : {
+            "objectType" : "person",
+            "id" : "id:twitter.com:617136715",
+            "link" : "http://www.twitter.com/mystarmyangel",
+            "displayName" : "[D-8] Mystarmyangel",
+            "postedTime" : "2012-06-24T13:45:46.000Z",
+            "image" : "https://pbs.twimg.com/profile_images/601693015531397120/4_Db3Qvc_normal.jpg",
+            "summary" : "SNSD || YOONA || not a fansite ||  disclaimer: i tweet about YoonA a lot.\nPls give full credits if you take out my trans",
+            "links" : [ {
+              "href" : "http://mystarmyangel.tumblr.com",
+              "rel" : "me"
+            } ],
+            "friendsCount" : 192,
+            "followersCount" : 18032,
+            "listedCount" : 147,
+            "statusesCount" : 52133,
+            "twitterTimeZone" : null,
+            "verified" : false,
+            "utcOffset" : null,
+            "preferredUsername" : "mystarmyangel",
+            "languages" : [ "en" ],
+            "location" : {
+              "objectType" : "place",
+              "displayName" : "ask.fm/mystarmyangel"
+            },
+            "favoritesCount" : 972
+          },
+          "verb" : "post",
+          "postedTime" : "2015-05-22T09:27:23.000Z",
+          "generator" : {
+            "displayName" : "Twitter for Android",
+            "link" : "http://twitter.com/download/android"
+          },
+          "provider" : {
+            "objectType" : "service",
+            "displayName" : "Twitter",
+            "link" : "http://www.twitter.com"
+          },
+          "link" : "http://twitter.com/mystarmyangel/statuses/601680747280269312",
+          "body" : "They prepared 100 bags with customised portable battery/Innisfree mineral mist + snacks + starbucks drink + YoonA's promotional brochure\uD83D\uDC4D\uD83D\uDC4D\uD83D\uDC4D",
+          "object" : {
+            "objectType" : "note",
+            "id" : "object:search.twitter.com,2005:601680747280269312",
+            "summary" : "They prepared 100 bags with customised portable battery/Innisfree mineral mist + snacks + starbucks drink + YoonA's promotional brochure\uD83D\uDC4D\uD83D\uDC4D\uD83D\uDC4D",
+            "link" : "http://twitter.com/mystarmyangel/statuses/601680747280269312",
+            "postedTime" : "2015-05-22T09:27:23.000Z"
+          },
+          "inReplyTo" : {
+            "link" : "http://twitter.com/mystarmyangel/statuses/601680106726170624"
+          },
+          "favoritesCount" : 13,
+          "twitter_entities" : {
+            "hashtags" : [ ],
+            "trends" : [ ],
+            "urls" : [ ],
+            "user_mentions" : [ ],
+            "symbols" : [ ]
+          },
+          "twitter_filter_level" : "low",
+          "twitter_lang" : "en"
+        },
+        "favoritesCount" : 0,
+        "twitter_entities" : {
+          "hashtags" : [ ],
+          "trends" : [ ],
+          "urls" : [ ],
+          "user_mentions" : [ {
+            "screen_name" : "mystarmyangel",
+            "name" : "[D-8] Mystarmyangel",
+            "id" : 617136715,
+            "id_str" : "617136715",
+            "indices" : [ 3, 17 ]
+          } ],
+          "symbols" : [ ]
+        },
+        "twitter_filter_level" : "low",
+        "twitter_lang" : "en",
+        "retweetCount" : 45,
+        "gnip" : {
+          "matching_rules" : [ {
+            "tag" : null
+          } ],
+          "language" : {
+            "value" : "en"
+          }
+        }
+      }
+    }, {
+      "_index" : "twitter",
+      "_type" : "tweet",
+      "_id" : "AVPeO1Y9GfCWwlhiivIB",
+      "_score" : 1.0,
+      "_source" : {
+        "id" : "tag:search.twitter.com,2005:601693084934664192",
+        "objectType" : "activity",
+        "actor" : {
+          "objectType" : "person",
+          "id" : "id:twitter.com:182663738",
+          "link" : "http://www.twitter.com/Lyd_zi",
+          "displayName" : "Lydia Copeland ",
+          "postedTime" : "2010-08-25T03:06:09.000Z",
+          "image" : "https://pbs.twimg.com/profile_images/599367451625824258/KWNEV8CS_normal.jpg",
+          "summary" : "You can have your cake and eat it too!",
+          "links" : [ {
+            "href" : "http://lydiacopeland.blogspot.com/",
+            "rel" : "me"
+          } ],
+          "friendsCount" : 332,
+          "followersCount" : 141,
+          "listedCount" : 0,
+          "statusesCount" : 2975,
+          "twitterTimeZone" : "Eastern Time (US & Canada)",
+          "verified" : false,
+          "utcOffset" : "-14400",
+          "preferredUsername" : "Lyd_zi",
+          "languages" : [ "en" ],
+          "location" : {
+            "objectType" : "place",
+            "displayName" : "Pittsburgh, PA"
+          },
+          "favoritesCount" : 1333
+        },
+        "verb" : "share",
+        "postedTime" : "2015-05-22T10:16:25.000Z",
+        "generator" : {
+          "displayName" : "Twitter for iPhone",
+          "link" : "http://twitter.com/download/iphone"
+        },
+        "provider" : {
+          "objectType" : "service",
+          "displayName" : "Twitter",
+          "link" : "http://www.twitter.com"
+        },
+        "link" : "http://twitter.com/Lyd_zi/statuses/601693084934664192",
+        "body" : "RT @HuffingtonPost: 9 secret Frappuccinos you won't find on any Starbucks menu http://t.co/uVybu6ffp6 http://t.co/tt3RQszQTp",
+        "object" : {
+          "id" : "tag:search.twitter.com,2005:601617263108710400",
+          "objectType" : "activity",
+          "actor" : {
+            "objectType" : "person",
+            "id" : "id:twitter.com:14511951",
+            "link" : "http://www.twitter.com/HuffingtonPost",
+            "displayName" : "Huffington Post",
+            "postedTime" : "2008-04-24T14:07:28.000Z",
+            "image" : "https://pbs.twimg.com/profile_images/589458979203321857/LO7JXCYX_normal.jpg",
+            "summary" : "internet lovers | sleep believers | news addicts | big font obsessives | greek yogurt fans",
+            "links" : [ {
+              "href" : "http://www.huffingtonpost.com",
+              "rel" : "me"
+            } ],
+            "friendsCount" : 5571,
+            "followersCount" : 5720431,
+            "listedCount" : 75981,
+            "statusesCount" : 409369,
+            "twitterTimeZone" : "Eastern Time (US & Canada)",
+            "verified" : true,
+            "utcOffset" : "-14400",
+            "preferredUsername" : "HuffingtonPost",
+            "languages" : [ "en" ],
+            "favoritesCount" : 596
+          },
+          "verb" : "post",
+          "postedTime" : "2015-05-22T05:15:07.000Z",
+          "generator" : {
+            "displayName" : "The Huffington Post",
+            "link" : "http://www.huffingtonpost.com"
+          },
+          "provider" : {
+            "objectType" : "service",
+            "displayName" : "Twitter",
+            "link" : "http://www.twitter.com"
+          },
+          "link" : "http://twitter.com/HuffingtonPost/statuses/601617263108710400",
+          "body" : "9 secret Frappuccinos you won't find on any Starbucks menu http://t.co/uVybu6ffp6 http://t.co/tt3RQszQTp",
+          "object" : {
+            "objectType" : "note",
+            "id" : "object:search.twitter.com,2005:601617263108710400",
+            "summary" : "9 secret Frappuccinos you won't find on any Starbucks menu http://t.co/uVybu6ffp6 http://t.co/tt3RQszQTp",
+            "link" : "http://twitter.com/HuffingtonPost/statuses/601617263108710400",
+            "postedTime" : "2015-05-22T05:15:07.000Z"
+          },
+          "favoritesCount" : 183,
+          "twitter_entities" : {
+            "hashtags" : [ ],
+            "trends" : [ ],
+            "urls" : [ {
+              "url" : "http://t.co/uVybu6ffp6",
+              "expanded_url" : "http://huff.to/1R4bM6b",
+              "display_url" : "huff.to/1R4bM6b",
+              "indices" : [ 59, 81 ]
+            } ],
+            "user_mentions" : [ ],
+            "symbols" : [ ],
+            "media" : [ {
+              "id" : 601617262999687168,
+              "id_str" : "601617262999687168",
+              "indices" : [ 82, 104 ],
+              "media_url" : "http://pbs.twimg.com/media/CFlftpPW0AAtxda.jpg",
+              "media_url_https" : "https://pbs.twimg.com/media/CFlftpPW0AAtxda.jpg",
+              "url" : "http://t.co/tt3RQszQTp",
+              "display_url" : "pic.twitter.com/tt3RQszQTp",
+              "expanded_url" : "http://twitter.com/HuffingtonPost/status/601617263108710400/photo/1",
+              "type" : "photo",
+              "sizes" : {
+                "large" : {
+                  "w" : 1024,
+                  "h" : 512,
+                  "resize" : "fit"
+                },
+                "thumb" : {
+                  "w" : 150,
+                  "h" : 150,
+                  "resize" : "crop"
+                },
+                "medium" : {
+                  "w" : 600,
+                  "h" : 300,
+                  "resize" : "fit"
+                },
+                "small" : {
+                  "w" : 340,
+                  "h" : 170,
+                  "resize" : "fit"
+                }
+              }
+            } ]
+          },
+          "twitter_extended_entities" : {
+            "media" : [ {
+              "id" : 601617262999687168,
+              "id_str" : "601617262999687168",
+              "indices" : [ 82, 104 ],
+              "media_url" : "http://pbs.twimg.com/media/CFlftpPW0AAtxda.jpg",
+              "media_url_https" : "https://pbs.twimg.com/media/CFlftpPW0AAtxda.jpg",
+              "url" : "http://t.co/tt3RQszQTp",
+              "display_url" : "pic.twitter.com/tt3RQszQTp",
+              "expanded_url" : "http://twitter.com/HuffingtonPost/status/601617263108710400/photo/1",
+              "type" : "photo",
+              "sizes" : {
+                "large" : {
+                  "w" : 1024,
+                  "h" : 512,
+                  "resize" : "fit"
+                },
+                "thumb" : {
+                  "w" : 150,
+                  "h" : 150,
+                  "resize" : "crop"
+                },
+                "medium" : {
+                  "w" : 600,
+                  "h" : 300,
+                  "resize" : "fit"
+                },
+                "small" : {
+                  "w" : 340,
+                  "h" : 170,
+                  "resize" : "fit"
+                }
+              }
+            } ]
+          },
+          "twitter_filter_level" : "low",
+          "twitter_lang" : "en"
+        },
+        "favoritesCount" : 0,
+        "twitter_entities" : {
+          "hashtags" : [ ],
+          "trends" : [ ],
+          "urls" : [ {
+            "url" : "http://t.co/uVybu6ffp6",
+            "expanded_url" : "http://huff.to/1R4bM6b",
+            "display_url" : "huff.to/1R4bM6b",
+            "indices" : [ 79, 101 ]
+          } ],
+          "user_mentions" : [ {
+            "screen_name" : "HuffingtonPost",
+            "name" : "Huffington Post",
+            "id" : 14511951,
+            "id_str" : "14511951",
+            "indices" : [ 3, 18 ]
+          } ],
+          "symbols" : [ ],
+          "media" : [ {
+            "id" : 601617262999687168,
+            "id_str" : "601617262999687168",
+            "indices" : [ 102, 124 ],
+            "media_url" : "http://pbs.twimg.com/media/CFlftpPW0AAtxda.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/CFlftpPW0AAtxda.jpg",
+            "url" : "http://t.co/tt3RQszQTp",
+            "display_url" : "pic.twitter.com/tt3RQszQTp",
+            "expanded_url" : "http://twitter.com/HuffingtonPost/status/601617263108710400/photo/1",
+            "type" : "photo",
+            "sizes" : {
+              "large" : {
+                "w" : 1024,
+                "h" : 512,
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : 150,
+                "h" : 150,
+                "resize" : "crop"
+              },
+              "medium" : {
+                "w" : 600,
+                "h" : 300,
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : 340,
+                "h" : 170,
+                "resize" : "fit"
+              }
+            },
+            "source_status_id" : 601617263108710400,
+            "source_status_id_str" : "601617263108710400"
+          } ]
+        },
+        "twitter_extended_entities" : {
+          "media" : [ {
+            "id" : 601617262999687168,
+            "id_str" : "601617262999687168",
+            "indices" : [ 102, 124 ],
+            "media_url" : "http://pbs.twimg.com/media/CFlftpPW0AAtxda.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/CFlftpPW0AAtxda.jpg",
+            "url" : "http://t.co/tt3RQszQTp",
+            "display_url" : "pic.twitter.com/tt3RQszQTp",
+            "expanded_url" : "http://twitter.com/HuffingtonPost/status/601617263108710400/photo/1",
+            "type" : "photo",
+            "sizes" : {
+              "large" : {
+                "w" : 1024,
+                "h" : 512,
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : 150,
+                "h" : 150,
+                "resize" : "crop"
+              },
+              "medium" : {
+                "w" : 600,
+                "h" : 300,
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : 340,
+                "h" : 170,
+                "resize" : "fit"
+              }
+            },
+            "source_status_id" : 601617263108710400,
+            "source_status_id_str" : "601617263108710400"
+          } ]
+        },
+        "twitter_filter_level" : "low",
+        "twitter_lang" : "en",
+        "retweetCount" : 118,
+        "gnip" : {
+          "matching_rules" : [ {
+            "tag" : null
+          } ],
+          "urls" : [ {
+            "url" : "http://t.co/uVybu6ffp6",
+            "expanded_url" : "http://www.huffingtonpost.com/thrillist/9-secret-frappuccinos-you_b_7342720.html?ncid=tweetlnkushpmg00000067",
+        
